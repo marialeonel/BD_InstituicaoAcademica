@@ -40,7 +40,7 @@ I used the MySQL Workbench 8.0 CE.
 ## 🍀 THANK YOU! 
 <p> 
   <ul> Thanks for reading and enjoy seeing the consults for an Academic Institution!
-    <li> <b>The project is not in English yet, but I intend to trasnlate and commit soon!</b></li>
+    <li> <b>The project is not in English yet, but I intend to translate and commit soon!</b></li>
     <li> You can follow me on my Linkedin Profile: <a href = "https://www.linkedin.com/in/maria-fernanda-leonel-bertelli-252480257"> Maria Fernanda Leonel Bertelli! </a> </li>
   </ul>
 </p>
