@@ -1,4 +1,4 @@
-# 🙋‍♀️🙋‍♂️ Academic Institution 
+# 🎓 Academic Institution 
 Creation of a database to serve an academic institution using the Data Management System MySQL Database.
 
 <ul> <b>Business rules: </b>
@@ -30,7 +30,7 @@ has a unique identification number and a name;</li>
 ## 👾 "How do I must analyse this?" 
 <ul> There are two files:
   <li> <b>"Instituicao.sql": </b> Consults;</li>
-  <li> <b>"Instituicao_Insercao.sql": </b> Values inserted;</li>
+  <li> <b>"Instituicao_Insercao.sql": </b> Values inserted.</li>
 </ul>
 
 ## 🤔 "Why did you develop this project?" 
